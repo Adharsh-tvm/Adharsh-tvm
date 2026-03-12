@@ -12,7 +12,7 @@
 <a href="https://leetcode.com/u/SOWEzQH3XY/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00cc66&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=Adharsh-tvm&style=flat-square&color=00cc66&label=profile+views" />
 
 </div>
 
@@ -112,13 +112,13 @@ const adharsh = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=39d353&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adharsh-tvm&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=39d353&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adharsh-tvm&layout=compact&langs_count=6&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=merko&hide_border=true&background=0d1117&stroke=00ff88&ring=39d353&fire=00cc66&currStreakLabel=00ff88" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adharsh-tvm&theme=merko&hide_border=true&background=0d1117&stroke=00ff88&ring=39d353&fire=00cc66&currStreakLabel=00ff88" />
 </div>
 
 ---
@@ -133,7 +133,7 @@ const adharsh = {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Adharsh-tvm&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 </div>
 
@@ -142,7 +142,7 @@ const adharsh = {
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00ff88&line=39d353&point=00cc66&area=true&area_color=0d2818&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adharsh-tvm&bg_color=0d1117&color=00ff88&line=39d353&point=00cc66&area=true&area_color=0d2818&hide_border=true" />
 </div>
 
 ---
